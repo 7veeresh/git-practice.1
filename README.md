@@ -1,5 +1,5 @@
 # git-practice.1
 this is my git repo.1
-<rd>
+<br>
 this is my git ripo.V2
 
